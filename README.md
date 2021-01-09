@@ -14,4 +14,4 @@ to-do:
 * Authentication
   * Celery for email confirmation
 
-
+**refer redis.txt to start redis server in docker**
